@@ -5,10 +5,12 @@ Our system includes timely genetic information uptake and digest (by analyses of
 ## Requirements
 
 Python 3.8.0+
+
 numpy
+
 sklearn
 
-R 3.4+
+R 3.3+
 
 ## install
 Download or pip install git+git://github.com/guangxujin/VOC-alarm.git#egg=VOC-alarm
