@@ -11,4 +11,7 @@ sklearn
 R 3.4+
 
 ## install
-Download or git 
+Download or pip install git+git://github.com/guangxujin/VOC-alarm.git#egg=VOC-alarm
+
+## pipeline
+python main.py
